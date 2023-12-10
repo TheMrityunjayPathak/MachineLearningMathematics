@@ -1,29 +1,35 @@
 # Machine Learning Mathematics
 
 - This repository contains Jupyter notebooks covering essential mathematical concepts used in machine learning, including linear algebra, probability, statistics, and calculus.
+  
 - Each notebook includes detailed explanations, mathematical theory, and practical code examples to help you understand these fundamental concepts in the context of machine learning.
 
 ## Table of Contents
 
-- [Linear Algebra](#linear-algebra)
-- [Probability](#probability)
-- [Statistics](#statistics)
-- [Calculus](#calculus)
+- [Introduction](#introduction)
+- [Notebook List](#notebook-list)
+- [Getting Started](#getting-started)
+- [Contributions](#contributions)
+- [License](#license)
+- [Acknowledgments](#acknowledgements)
 
-### Linear Algebra
+## Introduction 
 
+- Math is the core concept in machine learning which is used to express the idea within the machine learning model.
 
+- Mathematics forms the backbone of Machine Learning, So Understanding the Mathematical concepts is not just an advantage but an absolute necessity.
 
-### Probability
+- These are some core mathematical concepts that power Machine Learning :
 
+   - 🔢 Linear Algebra : Matrices, vectors, and their transformations are fundamental to understanding how data is represented and manipulated in ML models.
 
+   - 📈 Calculus : Understanding derivatives and integrals helps in optimizing models through techniques like gradient descent.
 
-### Statistics
+   - 📊 Statistics and Probability : These form the bedrock of making inferences from data, understanding distributions, and estimating probabilities in ML algorithms.
 
+## Notebook List
 
-
-### Calculus
-
+Here is a list of Jupyter notebooks included in this repository :
 
 
 ## Getting Started
@@ -48,7 +54,7 @@
 
 4. Open the desired notebook from the repository in your Jupyter environment and start learning!
 
-## Contribution
+## Contributions
 
 - Contributions are Welcome!
 
