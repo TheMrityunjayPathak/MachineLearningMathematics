@@ -1,6 +1,5 @@
 # Machine Learning Mathematics
 
-- Welcome to the Machine Learning Mathematics Repository!
 - This repository contains Jupyter notebooks covering essential mathematical concepts used in machine learning, including linear algebra, probability, statistics, and calculus.
 - Each notebook includes detailed explanations, mathematical theory, and practical code examples to help you understand these fundamental concepts in the context of machine learning.
 
@@ -48,7 +47,7 @@ Grasp the foundational principles of calculus, including derivatives, integrals,
 1. Clone this repository to your local machine :
 
    ```bash
-   git clone https://github.com/your-username/MachineLearningMathematics.git
+   git clone https://github.com/TheMrityunjayPathak/MachineLearningMathematics.git
    ```
 
 2. Install Jupyter Notebook or JupyterLab :
