@@ -31,6 +31,13 @@
 
 Here is a list of Jupyter notebooks included in this repository :
 
+Linear Algebra 
+
+- [Introduction to Matrices](https://github.com/TheMrityunjayPathak/MachineLearningMathematics/blob/f8af7b2063ee3ab1f626b606e638e2e44ec0ebe1/Linear%20Algebra/Introduction%20to%20Matrices.ipynb)
+
+Calculus
+
+Statistics and Probability 
 
 ## Getting Started
 
