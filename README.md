@@ -34,6 +34,7 @@ Here is a list of Jupyter notebooks included in this repository :
 Linear Algebra 
 
 - [Introduction to Matrices](https://www.kaggle.com/code/themrityunjaypathak/introduction-to-matrices)
+- [Matrix Operation using Python](https://www.kaggle.com/code/themrityunjaypathak/matrix-operation-using-python)
 
 Calculus
 
