@@ -38,6 +38,10 @@ Linear Algebra
 - [Introduction to Matrices](https://www.kaggle.com/code/themrityunjaypathak/introduction-to-matrices)
 - [Matrix Operation using Python](https://www.kaggle.com/code/themrityunjaypathak/matrix-operation-using-python)
 
+Geometry
+
+- [Distance Metrics](https://www.kaggle.com/code/themrityunjaypathak/distance-metrics)
+
 Calculus
 
 Statistics and Probability 
