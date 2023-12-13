@@ -21,7 +21,9 @@
 
 - These are some core mathematical concepts that power Machine Learning :
 
-   - 🔢 Linear Algebra : Matrices, vectors, and their transformations are fundamental to understanding how data is represented and manipulated in ML models.
+   - 🔢 Linear Algebra : Matrices, vectors, and their transformations are fundamental to understanding how data is represented and manipulated in ML model.
+ 
+   - 📐 Geometry : Understanding geometry behind the ML models helps in building classification, clustering and reccomender systems models.
 
    - 📈 Calculus : Understanding derivatives and integrals helps in optimizing models through techniques like gradient descent.
 
