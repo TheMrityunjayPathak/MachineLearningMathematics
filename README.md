@@ -41,6 +41,7 @@ Linear Algebra
 Geometry
 
 - [Distance Metrics](https://www.kaggle.com/code/themrityunjaypathak/distance-metrics)
+- [Similarity Metrics](https://www.kaggle.com/code/themrityunjaypathak/similarity-measures)
 
 Calculus
 
