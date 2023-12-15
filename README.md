@@ -42,6 +42,7 @@ Geometry
 
 - [Distance Metrics](https://www.kaggle.com/code/themrityunjaypathak/distance-metrics)
 - [Similarity Metrics](https://www.kaggle.com/code/themrityunjaypathak/similarity-measures)
+- [Box Cox Transformation](https://www.kaggle.com/code/themrityunjaypathak/box-cox-transformation)
 
 Calculus
 
