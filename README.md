@@ -43,10 +43,10 @@ Geometry
 - [Distance Metrics](https://www.kaggle.com/code/themrityunjaypathak/distance-metrics)
 - [Similarity Metrics](https://www.kaggle.com/code/themrityunjaypathak/similarity-measures)
 - [Box Cox Transformation](https://www.kaggle.com/code/themrityunjaypathak/box-cox-transformation)
+  
+Statistics
 
-Calculus
-
-Statistics and Probability 
+- [Descriptive Statistics with Python](https://www.kaggle.com/code/themrityunjaypathak/descriptive-statistics-with-python)
 
 ## Getting Started
 
