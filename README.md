@@ -25,9 +25,9 @@
  
    - 📐 Geometry : Understanding geometry behind the ML models helps in building classification, clustering and reccomender systems models.
 
-   - 📈 Calculus : Understanding derivatives and integrals helps in optimizing models through techniques like gradient descent.
-
    - 📊 Statistics and Probability : These form the bedrock of making inferences from data, understanding distributions, and estimating probabilities in ML algorithms.
+ 
+   - 📈 Calculus : Understanding derivatives and integrals helps in optimizing models through techniques like gradient descent.
 
 ## Notebook List
 
