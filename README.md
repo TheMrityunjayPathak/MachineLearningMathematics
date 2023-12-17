@@ -47,6 +47,7 @@ Geometry
 Statistics
 
 - [Descriptive Statistics with Python](https://www.kaggle.com/code/themrityunjaypathak/descriptive-statistics-with-python)
+- [Bias and Variance](https://www.kaggle.com/code/themrityunjaypathak/bias-and-variance-and-its-trade-off)
 
 ## Getting Started
 
