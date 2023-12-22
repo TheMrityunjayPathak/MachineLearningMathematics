@@ -46,6 +46,7 @@ Geometry
   
 Statistics
 
+- [Basics of Statistics](https://www.kaggle.com/themrityunjaypathak/basic-of-statistics)
 - [Descriptive Statistics with Python](https://www.kaggle.com/code/themrityunjaypathak/descriptive-statistics-with-python)
 - [Bias and Variance](https://www.kaggle.com/code/themrityunjaypathak/bias-and-variance-and-its-trade-off)
 - [Covariance and Correlation](https://www.kaggle.com/code/themrityunjaypathak/covariance-and-correlation)
