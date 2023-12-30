@@ -31,7 +31,7 @@
 
 ## Notebook List
 
-Here is a list of Jupyter notebooks included in this repository :
+Here is a list of Jupyter Notebooks included in this repository :
 
 Linear Algebra 
 
