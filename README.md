@@ -52,6 +52,10 @@ Statistics
 - [Covariance and Correlation](https://www.kaggle.com/code/themrityunjaypathak/covariance-and-correlation)
 - [Understanding Normal Distribution](https://www.kaggle.com/themrityunjaypathak/understanding-normal-distribution)
 
+Probability
+
+- [Introduction to Probability](https://www.kaggle.com/themrityunjaypathak/introduction-to-probability)
+
 ## Getting Started
 
 1. Clone this repository to your local machine :
