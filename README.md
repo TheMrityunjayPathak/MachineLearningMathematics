@@ -55,6 +55,7 @@ Statistics
 Probability
 
 - [Introduction to Probability](https://www.kaggle.com/themrityunjaypathak/introduction-to-probability)
+- [Probability Distribution](https://www.kaggle.com/themrityunjaypathak/probability-distribution)
 
 ## Getting Started
 
