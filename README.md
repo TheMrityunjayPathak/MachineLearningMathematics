@@ -51,6 +51,7 @@ Statistics
 - [Bias and Variance](https://www.kaggle.com/code/themrityunjaypathak/bias-and-variance-and-its-trade-off)
 - [Covariance and Correlation](https://www.kaggle.com/code/themrityunjaypathak/covariance-and-correlation)
 - [Understanding Normal Distribution](https://www.kaggle.com/themrityunjaypathak/understanding-normal-distribution)
+- [Hypothesis Testing](https://www.kaggle.com/code/themrityunjaypathak/hypothesis-testing)
 
 Probability
 
