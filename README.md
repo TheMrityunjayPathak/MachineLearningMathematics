@@ -48,9 +48,9 @@ Statistics
 
 - [Basics of Statistics](https://www.kaggle.com/themrityunjaypathak/basic-of-statistics)
 - [Descriptive Statistics with Python](https://www.kaggle.com/code/themrityunjaypathak/descriptive-statistics-with-python)
-- [Bias and Variance](https://www.kaggle.com/code/themrityunjaypathak/bias-and-variance-and-its-trade-off)
+- [Bias and Variance](https://www.kaggle.com/code/themrityunjaypathak/bias-and-variance)
 - [Covariance and Correlation](https://www.kaggle.com/code/themrityunjaypathak/covariance-and-correlation)
-- [Normal Distribution](https://www.kaggle.com/themrityunjaypathak/understanding-normal-distribution)
+- [Normal Distribution](https://www.kaggle.com/themrityunjaypathak/normal-distribution)
 - [Hypothesis Testing](https://www.kaggle.com/code/themrityunjaypathak/hypothesis-testing)
 
 Probability
