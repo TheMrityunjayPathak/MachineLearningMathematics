@@ -25,7 +25,9 @@
  
    - 📐 Geometry : Understanding geometry behind the ML models helps in building classification, clustering and reccomender systems models.
 
-   - 📊 Statistics and Probability : These form the bedrock of making inferences from data, understanding distributions, and estimating probabilities in ML algorithms.
+   - 📊 Statistics : Statistics encompasses methods for summarizing and drawing inferences from data, making it a key component in the field of machine learning.
+ 
+   - 🧮 Probability : It provides a mathematical framework for modeling uncertain events and is fundamental for understanding the uncertainties present in machine learning algorithms.
  
    - 📈 Calculus : Understanding derivatives and integrals helps in optimizing models through techniques like gradient descent.
 
