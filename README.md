@@ -58,6 +58,10 @@ Probability
 - [Introduction to Probability](https://www.kaggle.com/themrityunjaypathak/introduction-to-probability)
 - [Probability Distribution](https://www.kaggle.com/themrityunjaypathak/probability-distribution)
 
+Calculus
+
+- [Introduction to Calculus](https://www.kaggle.com/code/themrityunjaypathak/introduction-to-calculus)
+
 ## Getting Started
 
 1. Clone this repository to your local machine :
